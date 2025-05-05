@@ -133,3 +133,10 @@ input::placeholder {
     padding-bottom: 1rem;
 }
 
+#header h1, #header h3 {
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: #4242d64d;
+}
